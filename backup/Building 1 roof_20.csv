@@ -1,0 +1,87 @@
+Data Format: 
+  dateTimeDelimiter: " "
+  decimalSeparator: "."
+  dataDelimiter: ","
+  dateFormat: M/d/yy
+  timeFormat: HH:mm:ss
+  gmtOffset: "-5"
+  daylightSavings: true
+
+Logger Info: 
+  - &1
+    launchDescription: "Building 1 roof"
+    model: U30
+    vendor: Onset Computer Corporation
+    serialNumber: 10290124
+    memorySize: 0
+    firmwareVersion: 2.006
+    firmwareVersionRaw: 0
+    deploymentNumber: 3743
+Series Info: 
+  - name: "Solar Rad"
+    type: value
+    unitName: ""
+    OMClassName: OMSolarRad_HWS
+    OMPartNumber: S-LIB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 19
+    OMValuePattern: "#,##0;-#,##0"
+    logger: *1
+  - name: "Pressure"
+    type: value
+    unitName: ""
+    OMClassName: OMPressure_HWS
+    OMPartNumber: S-BPB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 7
+    OMValuePattern: "#,##0.0;-#,##0.0"
+    logger: *1
+  - name: "Wind Dir"
+    type: value
+    unitName: ""
+    OMClassName: OMeasurementH21
+    OMPartNumber: S-WDA-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 20
+    OMValuePattern: "#,##0;-#,##0"
+    logger: *1
+  - name: "Temp"
+    type: value
+    unitName: ""
+    OMClassName: OMTemp12bit_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 1
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "RH"
+    type: value
+    unitName: ""
+    OMClassName: OMRH_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 2
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+  - name: "DewPt"
+    type: value
+    unitName: ""
+    OMClassName: OMDewPoint_HWS
+    OMPartNumber: S-THB-XXXX
+    OMUnitIndex: 0
+    OMChannelType: 6
+    OMValuePattern: "#,##0.00;-#,##0.00"
+    logger: *1
+------------
+"#","Time, Eastern Daylight Time","Solar Rad, W/m^2","Pressure, mbar","Wind Dir, *","Temp, *C","RH, %","DewPt, *C"
+1,5/23/17 11:00:00,582,1013.6,343,20.20,54.40,10.72
+2,5/23/17 11:05:00,907,1013.4,3,19.10,53.50,9.46
+3,5/23/17 11:10:00,954,1013.4,1,19.37,53.80,9.78
+4,5/23/17 11:15:00,709,1013.4,1,20.01,53.00,10.15
+5,5/23/17 11:20:00,1026,1013.4,8,20.17,52.50,10.17
+6,5/23/17 11:25:00,894,1013.3,1,20.15,52.60,10.17
+7,5/23/17 11:30:00,848,1013.1,329,20.63,52.30,10.53
+8,5/23/17 11:35:00,789,1013.2,11,21.08,52.10,10.89
+9,5/23/17 11:40:00,1009,1013.2,7,20.70,51.70,10.42
+10,5/23/17 11:45:00,944,1013.2,355,20.34,53.20,10.52
+11,5/23/17 11:50:00,841,1013.2,347,20.75,51.50,10.41

@@ -1,0 +1,440 @@
+case number: 6
+age: 18-25
+gender: Female
+glass: No
+time stamp: 2017-05-13  12:53:30
+time stamp: 2017-05-13  12:54:35
+time stamp: 2017-05-13  12:54:59
+time stamp: 2017-05-13  12:55:58
+time stamp: 2017-05-13  12:57:05
+time stamp: 2017-05-13  12:58:58
+time stamp: 2017-05-13  12:59:19
+time stamp: 2017-05-13  13:05:39
+time stamp: 2017-05-13  13:06:09
+time stamp: 2017-05-13  13:06:41
+time stamp: 2017-05-13  13:06:52
+time stamp: 2017-05-13  13:07:34
+time stamp: 2017-05-13  13:08:21
+time stamp: 2017-05-13  13:09:15
+time stamp: 2017-05-13  13:09:20
+time stamp: 2017-05-13  13:10:19
+time stamp: 2017-05-13  13:10:25
+time stamp: 2017-05-13  13:10:38
+time stamp: 2017-05-13  13:10:44
+time stamp: 2017-05-13  13:11:15
+time stamp: 2017-05-13  13:11:18
+time stamp: 2017-05-13  13:11:55
+time stamp: 2017-05-13  13:11:57
+time stamp: 2017-05-13  13:12:33
+
+case number: 7
+age: 25-35
+gender: Female
+glass: No
+habit: 0x1be4847b5a0
+time stamp: 2017-05-17  09:42:11
+time stamp: 2017-05-17  09:43:15
+time stamp: 2017-05-17  09:43:36
+time stamp: 2017-05-17  09:44:48
+time stamp: 2017-05-17  09:45:40
+time stamp: 2017-05-17  09:45:51
+time stamp: 2017-05-17  09:47:50
+time stamp: 2017-05-17  09:48:18
+time stamp: 2017-05-17  09:50:20
+time stamp: 2017-05-17  09:50:41
+time stamp: 2017-05-17  09:52:41
+time stamp: 2017-05-17  09:52:45
+time stamp: 2017-05-17  09:52:58
+time stamp: 2017-05-17  09:55:02
+time stamp: 2017-05-17  10:00:59
+time stamp: 2017-05-17  10:02:07
+time stamp: 2017-05-17  10:02:14
+time stamp: 2017-05-17  10:03:23
+time stamp: 2017-05-17  10:03:37
+time stamp: 2017-05-17  10:03:40
+time stamp: 2017-05-17  10:05:24
+time stamp: 2017-05-17  10:05:29
+time stamp: 2017-05-17  10:07:36
+time stamp: 2017-05-17  10:07:51
+time stamp: 2017-05-17  10:09:53
+time stamp: 2017-05-17  10:10:00
+time stamp: 2017-05-17  10:12:03
+time stamp: 2017-05-17  14:05:20
+time stamp: 2017-05-17  14:06:22
+time stamp: 2017-05-17  14:06:43
+time stamp: 2017-05-17  14:07:38
+time stamp: 2017-05-17  14:08:37
+time stamp: 2017-05-17  14:09:55
+time stamp: 2017-05-17  14:10:15
+time stamp: 2017-05-17  14:10:17
+time stamp: 2017-05-17  14:10:57
+time stamp: 2017-05-17  14:11:18
+time stamp: 2017-05-17  14:11:46
+time stamp: 2017-05-17  14:12:11
+time stamp: 2017-05-17  14:13:19
+time stamp: 2017-05-17  14:14:02
+time stamp: 2017-05-17  14:14:56
+time stamp: 2017-05-17  14:15:23
+time stamp: 2017-05-17  14:16:19
+time stamp: 2017-05-17  14:19:31
+time stamp: 2017-05-17  14:20:32
+time stamp: 2017-05-17  14:20:54
+time stamp: 2017-05-17  14:20:54
+time stamp: 2017-05-17  14:21:53
+time stamp: 2017-05-17  14:22:02
+time stamp: 2017-05-17  14:23:52
+time stamp: 2017-05-17  14:24:12
+time stamp: 2017-05-17  14:26:16
+case number: 9
+age: 18-25
+gender: Female
+glass: Yes
+habit: 0x1ff7fada580
+time stamp: 2017-05-25  08:46:05
+time stamp: 2017-05-25  08:46:48
+time stamp: 2017-05-25  08:47:09
+time stamp: 2017-05-25  08:48:00
+time stamp: 2017-05-25  08:48:51
+time stamp: 2017-05-25  08:50:34
+time stamp: 2017-05-25  08:50:54
+time stamp: 2017-05-25  08:51:30
+time stamp: 2017-05-25  08:51:58
+time stamp: 2017-05-25  08:52:16
+time stamp: 2017-05-25  08:52:35
+time stamp: 2017-05-25  08:53:19
+time stamp: 2017-05-25  08:54:14
+time stamp: 2017-05-25  08:55:07
+time stamp: 2017-05-25  08:55:10
+time stamp: 2017-05-25  08:56:05
+time stamp: 2017-05-25  08:56:13
+time stamp: 2017-05-25  08:56:38
+time stamp: 2017-05-25  08:56:41
+time stamp: 2017-05-25  08:57:44
+time stamp: 2017-05-25  08:57:47
+time stamp: 2017-05-25  08:58:30
+time stamp: 2017-05-25  08:58:35
+time stamp: 2017-05-25  09:00:42
+time stamp: 2017-05-25  12:03:21
+time stamp: 2017-05-25  12:04:30
+time stamp: 2017-05-25  12:04:55
+time stamp: 2017-05-25  12:06:07
+time stamp: 2017-05-25  12:06:37
+time stamp: 2017-05-25  12:08:35
+time stamp: 2017-05-25  12:08:59
+time stamp: 2017-05-25  12:10:45
+time stamp: 2017-05-25  12:11:21
+time stamp: 2017-05-25  12:13:09
+time stamp: 2017-05-25  12:13:33
+time stamp: 2017-05-25  12:15:38
+time stamp: 2017-05-25  12:16:33
+time stamp: 2017-05-25  12:17:32
+time stamp: 2017-05-25  12:17:39
+time stamp: 2017-05-25  12:18:43
+time stamp: 2017-05-25  12:18:54
+time stamp: 2017-05-25  12:18:55
+time stamp: 2017-05-25  12:20:09
+time stamp: 2017-05-25  12:20:14
+time stamp: 2017-05-25  12:22:27
+time stamp: 2017-05-25  12:22:32
+time stamp: 2017-05-25  12:24:32
+time stamp: 2017-05-25  12:24:37
+time stamp: 2017-05-25  12:26:44
+case number: 11
+age: 18-25
+gender: Male
+glass: Yes
+habit: 0x1bd41d6dc70
+time stamp: 2017-05-26  13:35:33
+time stamp: 2017-05-26  13:36:27
+time stamp: 2017-05-26  13:36:36
+time stamp: 2017-05-26  13:37:37
+time stamp: 2017-05-26  13:37:50
+time stamp: 2017-05-26  13:37:52
+time stamp: 2017-05-26  13:38:07
+time stamp: 2017-05-26  13:38:10
+time stamp: 2017-05-26  13:38:37
+time stamp: 2017-05-26  13:38:40
+time stamp: 2017-05-26  13:40:32
+time stamp: 2017-05-26  13:40:43
+time stamp: 2017-05-26  13:42:36
+time stamp: 2017-05-26  13:43:12
+time stamp: 2017-05-26  13:44:07
+time stamp: 2017-05-26  13:44:29
+time stamp: 2017-05-26  13:45:27
+time stamp: 2017-05-26  13:46:08
+time stamp: 2017-05-26  13:46:53
+time stamp: 2017-05-26  13:47:10
+time stamp: 2017-05-26  13:48:04
+time stamp: 2017-05-26  13:49:30
+time stamp: 2017-05-26  13:49:32
+time stamp: 2017-05-26  13:51:31
+case number: 12
+age: 18-25
+gender: Female
+glass: No
+habit: 0x1e81dff79a0
+time stamp: 2017-05-30  10:05:41
+time stamp: 2017-05-30  10:06:40
+time stamp: 2017-05-30  10:06:53
+time stamp: 2017-05-30  10:07:59
+time stamp: 2017-05-30  10:08:23
+time stamp: 2017-05-30  10:08:34
+time stamp: 2017-05-30  10:08:41
+time stamp: 2017-05-30  10:10:51
+time stamp: 2017-05-30  10:11:21
+time stamp: 2017-05-30  10:13:35
+time stamp: 2017-05-30  10:13:53
+time stamp: 2017-05-30  10:16:10
+time stamp: 2017-05-30  10:16:59
+time stamp: 2017-05-30  10:18:05
+time stamp: 2017-05-30  10:18:25
+time stamp: 2017-05-30  10:19:30
+time stamp: 2017-05-30  10:19:46
+time stamp: 2017-05-30  10:20:55
+time stamp: 2017-05-30  10:21:11
+time stamp: 2017-05-30  10:21:11
+time stamp: 2017-05-30  10:23:09
+time stamp: 2017-05-30  10:23:33
+time stamp: 2017-05-30  10:23:34
+time stamp: 2017-05-30  10:25:31
+time stamp: 2017-05-30  10:26:04
+time stamp: 2017-05-30  10:28:11
+time stamp: 2017-05-31  10:12:02
+time stamp: 2017-05-31  10:12:04
+time stamp: 2017-05-31  10:13:02
+time stamp: 2017-05-31  10:13:15
+time stamp: 2017-05-31  10:14:18
+time stamp: 2017-05-31  10:14:40
+time stamp: 2017-05-31  10:14:47
+time stamp: 2017-05-31  10:14:51
+time stamp: 2017-05-31  10:15:11
+time stamp: 2017-05-31  10:15:16
+time stamp: 2017-05-31  10:15:39
+time stamp: 2017-05-31  10:15:44
+time stamp: 2017-05-31  10:16:47
+time stamp: 2017-05-31  10:17:16
+time stamp: 2017-05-31  10:18:14
+time stamp: 2017-05-31  10:18:29
+time stamp: 2017-05-31  10:19:34
+time stamp: 2017-05-31  10:20:04
+time stamp: 2017-05-31  10:20:07
+time stamp: 2017-05-31  10:20:15
+time stamp: 2017-05-31  10:20:25
+time stamp: 2017-05-31  10:20:27
+time stamp: 2017-05-31  10:20:34
+time stamp: 2017-05-31  10:20:57
+time stamp: 2017-05-31  10:21:04
+time stamp: 2017-05-31  10:21:50
+time stamp: 2017-05-31  14:37:01
+time stamp: 2017-05-31  14:37:58
+time stamp: 2017-05-31  14:38:06
+time stamp: 2017-05-31  14:39:09
+time stamp: 2017-05-31  14:40:31
+time stamp: 2017-05-31  14:40:40
+time stamp: 2017-05-31  14:40:53
+time stamp: 2017-05-31  14:41:15
+time stamp: 2017-05-31  14:41:18
+time stamp: 2017-05-31  14:41:20
+time stamp: 2017-05-31  14:42:51
+time stamp: 2017-05-31  14:42:55
+time stamp: 2017-05-31  14:44:11
+time stamp: 2017-05-31  14:44:40
+time stamp: 2017-05-31  14:45:32
+time stamp: 2017-05-31  14:45:49
+time stamp: 2017-05-31  14:46:39
+time stamp: 2017-05-31  14:47:06
+time stamp: 2017-05-31  14:47:41
+time stamp: 2017-05-31  14:48:04
+time stamp: 2017-05-31  14:49:06
+time stamp: 2017-05-31  14:49:19
+time stamp: 2017-05-31  14:50:17
+time stamp: 2017-05-31  14:50:28
+time stamp: 2017-05-31  14:53:11
+time stamp: 2017-05-31  14:53:12
+
+time stamp: 2017-05-31  15:26:51
+time stamp: 2017-05-31  15:27:45
+time stamp: 2017-05-31  15:27:53
+time stamp: 2017-05-31  15:28:46
+time stamp: 2017-05-31  15:29:13
+time stamp: 2017-05-31  15:29:13
+time stamp: 2017-05-31  15:29:25
+time stamp: 2017-05-31  15:29:29
+time stamp: 2017-05-31  15:29:41
+time stamp: 2017-05-31  15:29:44
+time stamp: 2017-05-31  15:31:03
+time stamp: 2017-05-31  15:31:17
+time stamp: 2017-05-31  15:33:16
+time stamp: 2017-05-31  15:34:03
+time stamp: 2017-05-31  15:34:55
+time stamp: 2017-05-31  15:35:37
+time stamp: 2017-05-31  15:36:32
+time stamp: 2017-05-31  15:36:59
+time stamp: 2017-05-31  15:37:16
+time stamp: 2017-05-31  15:37:27
+time stamp: 2017-05-31  15:38:46
+time stamp: 2017-05-31  15:39:15
+time stamp: 2017-05-31  15:39:35
+time stamp: 2017-05-31  15:40:31
+time stamp: 2017-05-31  15:40:46
+time stamp: 2017-05-31  15:42:45
+case number: 16
+age: 18-25
+gender: Female
+glass: Yes
+habit: 0x1d81919caf0
+time stamp: 2017-06-04  15:33:23
+time stamp: 2017-06-04  15:34:20
+time stamp: 2017-06-04  15:34:38
+time stamp: 2017-06-04  15:35:44
+time stamp: 2017-06-04  15:36:00
+time stamp: 2017-06-04  15:36:01
+time stamp: 2017-06-04  15:36:23
+time stamp: 2017-06-04  15:36:28
+time stamp: 2017-06-04  15:36:57
+time stamp: 2017-06-04  15:37:02
+time stamp: 2017-06-04  15:37:18
+time stamp: 2017-06-04  15:37:26
+time stamp: 2017-06-04  15:39:31
+time stamp: 2017-06-04  15:40:48
+time stamp: 2017-06-04  15:41:48
+time stamp: 2017-06-04  15:42:12
+time stamp: 2017-06-04  15:43:13
+time stamp: 2017-06-04  15:43:48
+time stamp: 2017-06-04  15:44:40
+time stamp: 2017-06-04  15:44:59
+time stamp: 2017-06-04  15:46:56
+time stamp: 2017-06-04  15:47:49
+time stamp: 2017-06-04  15:49:29
+time stamp: 2017-06-04  15:49:48
+time stamp: 2017-06-04  15:51:58
+case number: 17
+age: 18-25
+gender: Female
+glass: No
+habit: 0x2310bb0c8f0
+time stamp: 2017-06-05  10:12:01
+time stamp: 2017-06-05  10:12:56
+time stamp: 2017-06-05  10:13:22
+time stamp: 2017-06-05  10:14:14
+time stamp: 2017-06-05  10:14:47
+time stamp: 2017-06-05  10:14:56
+time stamp: 2017-06-05  10:15:02
+time stamp: 2017-06-05  10:15:24
+time stamp: 2017-06-05  10:15:28
+time stamp: 2017-06-05  10:17:05
+time stamp: 2017-06-05  10:17:15
+time stamp: 2017-06-05  10:18:51
+time stamp: 2017-06-05  10:19:22
+time stamp: 2017-06-05  10:20:19
+time stamp: 2017-06-05  10:20:33
+time stamp: 2017-06-05  10:21:29
+time stamp: 2017-06-05  10:21:42
+time stamp: 2017-06-05  10:22:13
+time stamp: 2017-06-05  10:22:17
+time stamp: 2017-06-05  10:22:26
+time stamp: 2017-06-05  10:23:16
+time stamp: 2017-06-05  10:23:29
+time stamp: 2017-06-05  10:24:05
+time stamp: 2017-06-05  10:24:16
+time stamp: 2017-06-05  10:24:18
+time stamp: 2017-06-05  10:26:20
+time stamp: 2017-06-05  10:28:54
+case number: 18
+age: 18-25
+gender: Female
+glass: No
+habit: 0x18ff6c9cfc0
+case number: 18
+age: 18-25
+gender: Female
+glass: No
+habit: 0x18ff6c9cfc0
+time stamp: 2017-06-05  10:33:04
+time stamp: 2017-06-05  10:34:00
+time stamp: 2017-06-05  10:34:04
+time stamp: 2017-06-05  10:35:01
+time stamp: 2017-06-05  10:35:32
+time stamp: 2017-06-05  10:35:33
+time stamp: 2017-06-05  10:35:40
+time stamp: 2017-06-05  10:35:43
+time stamp: 2017-06-05  10:37:08
+time stamp: 2017-06-05  10:37:11
+time stamp: 2017-06-05  10:37:31
+time stamp: 2017-06-05  10:37:35
+time stamp: 2017-06-05  10:39:44
+time stamp: 2017-06-05  10:40:10
+time stamp: 2017-06-05  10:41:02
+time stamp: 2017-06-05  10:41:18
+time stamp: 2017-06-05  10:42:10
+time stamp: 2017-06-05  10:42:49
+time stamp: 2017-06-05  10:43:10
+time stamp: 2017-06-05  10:43:24
+time stamp: 2017-06-05  10:45:43
+time stamp: 2017-06-05  10:45:55
+time stamp: 2017-06-05  10:46:24
+time stamp: 2017-06-05  10:46:38
+time stamp: 2017-06-05  10:48:44
+time stamp: 2017-06-05  10:48:57
+time stamp: 2017-06-05  10:58:04
+time stamp: 2017-06-05  10:58:30
+case number: 19
+age: 18-25
+gender: Female
+glass: Yes
+habit: 0x20d21f3f780
+time stamp: 2017-06-05  11:32:48
+time stamp: 2017-06-05  11:34:05
+time stamp: 2017-06-05  11:34:16
+time stamp: 2017-06-05  11:35:37
+time stamp: 2017-06-05  11:36:22
+time stamp: 2017-06-05  11:36:35
+time stamp: 2017-06-05  11:36:40
+time stamp: 2017-06-05  11:37:37
+time stamp: 2017-06-05  11:37:40
+time stamp: 2017-06-05  11:38:10
+time stamp: 2017-06-05  11:38:13
+time stamp: 2017-06-05  11:40:22
+time stamp: 2017-06-05  11:40:53
+time stamp: 2017-06-05  11:42:15
+time stamp: 2017-06-05  11:42:29
+time stamp: 2017-06-05  11:43:52
+time stamp: 2017-06-05  11:43:53
+time stamp: 2017-06-05  11:44:09
+time stamp: 2017-06-05  11:44:36
+time stamp: 2017-06-05  11:44:48
+time stamp: 2017-06-05  11:45:15
+time stamp: 2017-06-05  11:45:26
+time stamp: 2017-06-05  11:46:54
+time stamp: 2017-06-05  11:47:13
+time stamp: 2017-06-05  11:49:03
+case number: 20
+age: 18-25
+gender: Male
+glass: Yes
+habit: 0x1db2937a560
+time stamp: 2017-06-05  13:01:23
+time stamp: 2017-06-05  13:02:23
+time stamp: 2017-06-05  13:02:29
+time stamp: 2017-06-05  13:03:23
+time stamp: 2017-06-05  13:04:09
+time stamp: 2017-06-05  13:04:22
+time stamp: 2017-06-05  13:04:27
+time stamp: 2017-06-05  13:06:16
+time stamp: 2017-06-05  13:06:20
+time stamp: 2017-06-05  13:06:42
+time stamp: 2017-06-05  13:06:46
+time stamp: 2017-06-05  13:08:36
+time stamp: 2017-06-05  13:09:16
+time stamp: 2017-06-05  13:10:10
+time stamp: 2017-06-05  13:10:24
+time stamp: 2017-06-05  13:11:16
+time stamp: 2017-06-05  13:11:34
+time stamp: 2017-06-05  13:11:45
+time stamp: 2017-06-05  13:11:57
+time stamp: 2017-06-05  13:13:39
+time stamp: 2017-06-05  13:13:57
+time stamp: 2017-06-05  13:13:58
+time stamp: 2017-06-05  13:15:58
+time stamp: 2017-06-05  13:16:18
+time stamp: 2017-06-05  13:18:35

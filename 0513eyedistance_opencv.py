@@ -68,7 +68,7 @@ fourcc = cv2.VideoWriter_fourcc(*'XVID')
 #out = cv2.VideoWriter('output.avi',fourcc, 2, (640,480))
 
 #out = cv2.VideoWriter('./data/'+ str(datetime.now()) +'_output.avi',fourcc, 20, (640,480))
-casenumber = 7
+casenumber = 11
 out = cv2.VideoWriter('./facialdata/case' + str(casenumber) + '_output.avi',fourcc, 20, (640,480))
 focals = []
 focal_ave = 0
